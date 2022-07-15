@@ -468,7 +468,7 @@
 #endif /* HAL_MMC_MODULE_ENABLED */
 
 /* Exported macro ------------------------------------------------------------*/
-#ifdef  USE_FULL_ASSERT
+#ifdef  USE_FULL_
 /**
   * @brief  The assert_param macro is used for function's parameters check.
   * @param  expr If expr is false, it calls assert_failed function
